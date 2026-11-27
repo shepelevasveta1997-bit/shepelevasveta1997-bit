@@ -1,5 +1,58 @@
-## Привет！ 👋
-Меня зовут Светлана, я QA Engineer
+# Привет! Я Светлана  👋
+
+## Junior QA Engineer
+
+Я помогаю выпускать продукт без критичных багов и лишних откатов .😄
+
+---
+
+
+📌 Прямо сейчас ищу работу и готова включиться в боевые задачи.
+
+---
+
+### 🛠 Что умею
+
+| Навык | Уровень |
+|---|---|
+| Postman | 💪 Уверенное владение — REST API, коллекции, переменные, тесты |
+| Теория тестирования | Виды, уровни, техники тест-дизайна (КЭ, ГЗ, попарное и др.) |
+| Тестовая документация | Тест-кейсы, чек-листы, баг-репорты |
+| DevTools | Анализ запросов, консоль, элементы |
+| Git & GitHub | Базовые операции, работа с репозиториями |
+| Charles / Fiddler | Перехват и подмена трафика |
+| Основы автоматизации | Базовое понимание, первые шаги (и большие планы) |
+
+---
+
+
+---
+
+### 📂 Портфолио
+
+> 🏗 Раздел в процессе наполнения — скоро здесь появятся:
+> - Примеры баг-репортов и тест-кейсов
+> - Коллекции Postman с тестами API
+> - SQL-запросы к учебным базам данных
+> - Мои первые автотесты
+
+---
+
+### ⚡ Три причины взять меня в команду
+
+1. Я замечаю то, что другие пропускают — внимательность к деталям у меня
+   не навык, а свойство личности
+2. Я не жду, пока научат — сама нахожу информацию, разбираюсь, применяю
+3. Со мной не скучно — я живой человек с характером, который умеет
+   и в дедлайны, и в командную работу, и в здоровое чувство юмора
+
+---
+
+### 📫 Как связаться
+
+- 📧 Email:
+- 💬 Telegram:
+- 📄 Резюме:
 
 ## 📊 Статистика
 
@@ -9,7 +62,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=MaxEvdokimov1)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=shepelevasveta1997-bit)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -57,7 +110,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
+  <img src="https://images.icon-icons.com/1495/PNG/512/dbeaver_103190.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
 ## Автотесты
@@ -77,20 +130,15 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_auto.png)
-[<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_kvadra.png)
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/internship_4fresh.png)
+
+
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png)
+
+
+
 
 <br>
-<br>
-
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/evdokimovmax)
 
