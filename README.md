@@ -1,4 +1,3 @@
-<img width="2400" height="3392" alt="Certificate2" src="https://github.com/user-attachments/assets/7728a1b1-4c62-4d33-89fa-58a00f8391fe" />
 # Привет! Я Светлана  👋
 
 ## Junior QA Engineer
@@ -132,14 +131,14 @@
 
 ## 🪴 Практика и стажировка
 
-
+<br><img width="2400" height="1700" alt="internship" src="https://github.com/user-attachments/assets/3d721c54-56e6-4acb-8d57-59a13e763fe2" />
 
 <br>
 
 ## 🎒 Образование
 
+<img width="2400" height="3392" alt="Certificate2" src="https://github.com/user-attachments/assets/7728a1b1-4c62-4d33-89fa-58a00f8391fe" />
 
 
 
-<br>
 
