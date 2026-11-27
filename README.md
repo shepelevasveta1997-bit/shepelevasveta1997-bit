@@ -51,9 +51,9 @@
 
 ### 📫 Как связаться
 
-- 📧 Email:
-- 💬 Telegram:
-- 📄 Резюме:
+- 📧 Email:shepelevasveta1997@gmail.com
+- 💬 Telegram:@HappyHugssss
+- 📄 Резюме:https://voronezh.hh.ru/resume/37d1d117ff11267e480039ed1f596c7a493268
 
 ## 📊 Статистика
 
