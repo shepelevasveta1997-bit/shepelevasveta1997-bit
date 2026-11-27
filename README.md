@@ -1,3 +1,4 @@
+<img width="2400" height="3392" alt="Certificate2" src="https://github.com/user-attachments/assets/7728a1b1-4c62-4d33-89fa-58a00f8391fe" />
 # Привет! Я Светлана  👋
 
 ## Junior QA Engineer
