@@ -135,8 +135,8 @@
 
 
 ## 🎒 Образование
+<img width="400" alt="Certificate2" src="https://github.com/user-attachments/assets/a54eed68-050a-408e-89f9-896d2cef2934" />
 
-<img width="400" alt="Certificate2" src="https://github.com/user-attachments/assets/06e353a8-b581-4d8f-8fd2-8d2a000e8c71">
 
 
 
